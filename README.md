@@ -10,3 +10,8 @@ This repository contains implementations of evolutionary machine learning algori
  
  3. Evolutionary strategy for SineWave data set 
   - Has implementaion of Evolutionary strategy and compares the result obtained from neural network with back propogation for sinewave dataset
+  
+ 4. Genetic programming for Wisconsin breast cancer dataset
+  - Has implementation of genetic programming. Also, has tree representation of program with arithmetic and if-then-else functions at internal tree nodes.
+
+
